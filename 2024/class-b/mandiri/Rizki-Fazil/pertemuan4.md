@@ -23,7 +23,6 @@ Namun, hubungan antara perkembangan kode sumber dengan ideologi tidak berhenti s
 Dalam konteks kode sumber, ideologi merupakan bentuk pengaturan dari akses kode tersebut seperti siapa saja yang berhak mengakses, memanfaatkan, serta mengubah kode sumber tersebut. Dimana closed source membawa ideologi bahwa kode sumber merupakan suatu hasil intelektualitas yang bersifat eksklusif dan menekankan kepada kepemilikan prifat dan kontrol profit. Sedangkan Open source membawa ideologi yang menekankan kepada akses terbuka, kolaboratif dan kerja sama dalam akses suatu kode sumber. Sehingga kode sumber bukan hanya sebatas hal-hal teknis, tetapi juga membawa ideologi yang mendasari struktur masyarakat modern. Dengan demikian seperti apa sikap kita dalam mengatur kode sumber juga akan menentukan ideologi dan reaksi sosial kita.
 
 # Daftar Pustaka
-- von Hippel, E., & von Krogh, G. (2003). Open Source Software and the "Private-Collective" Innovation Model: Issues for Organization Science. Organization Science, 14(2), 209–223.
 - Marx, K. (1867). Das Kapital: Critique of political economy (Vol. 1). Moscow: Progress Publishers.
 - Berlin, L. (2017). Troublemakers: Silicon Valley Coming of Age. Simon & Schuster.
 - Makalah kelompok 3 “Transformasi Ekosistem Teknologi: Dari Dominasi Negara ke Era Kolaborasi Terbuka”
