@@ -8,10 +8,12 @@ Berdasarkan proses assesment terhadap penugasan, maka diharapkan hal berikut men
 
 
 ## presentator
-Anda adalah seorang Pegawai di perpustakaan Daerah, karena ada kebijakan Satu data, maka anda diminta mengerjakan sistem perpustakaan dan arsip dengan satu server untuk data dan satu server untuk aplikasi dengan metode remote. Beradasarkan informasi dari Kementerian Riset Dan Teknologi informasi,  Anda di haruskan mengimplementasikan protokol CIS pada layer workstation dan server.Berikut diagram arsitektur yang diberikan sebagai panduan anda dalam melakukan deployment.
+Anda adalah seorang Pegawai di perpustakaan Daerah, karena ada kebijakan Satu data, maka anda diminta mengerjakan sistem perpustakaan atau arsip dengan dua server. Beradasarkan informasi dari Kementerian Riset Dan Teknologi informasi,  Anda di haruskan mengimplementasikan protokol CIS pada layer workstation dan server.Berikut diagram arsitektur yang diberikan sebagai panduan anda dalam melakukan deployment.
 
 ### layout
-<img width="488" height="456" alt="Untitled Diagram drawio" src="https://github.com/user-attachments/assets/0f0aeb34-48a5-4974-810d-8a85d0e769c5" />
+<img width="629" height="590" alt="Untitled Diagram-Copy of Page-2 drawio(1)" src="https://github.com/user-attachments/assets/946e6986-7f16-4bfd-8ba2-8a6a35573881" />
+
+
 
 
 
@@ -19,6 +21,7 @@ Anda adalah seorang Pegawai di perpustakaan Daerah, karena ada kebijakan Satu da
 - Aplikasi yang di install adalah slims 
 - Memastikan keamanan sistem komputer dikonfigurasikan secara ketat
 - Memastikan performa sistem komputer dalam performa terbaik
+- Menggunakan kernel linux hardened
 - Indikator penilaian minimum adalah implementasi tingkat keamanan dan performa yang telah di pelajari
 
 
@@ -28,6 +31,7 @@ Anda adalah seorang Pegawai di perpustakaan Daerah, karena ada kebijakan Satu da
 - Aplikasi yang di install adalah arteri
 - Memastikan keamanan sistem komputer dikonfigurasikan secara ketat
 - Memastikan performa sistem komputer dalam performa terbaik
+- Menggunakan kernel linux hardened
 - Indikator penilaian minimum adalah implementasi tingkat keamanan dan performa yang telah di pelajari
 
 
@@ -35,12 +39,14 @@ Anda adalah seorang Pegawai di perpustakaan Daerah, karena ada kebijakan Satu da
 - Aplikasi yang di install adalah atom
 - Memastikan keamanan sistem komputer dikonfigurasikan secara ketat
 - Memastikan performa sistem komputer dalam performa terbaik
+- Menggunakan kernel linux hardened
 - Indikator penilaian minimum adalah implementasi tingkat keamanan dan performa yang telah di pelajari
 
 ## Kelas D
 - Aplikasi yang di install adalah omeka
 - Memastikan keamanan sistem komputer dikonfigurasikan secara ketat
 - Memastikan performa sistem komputer dalam performa terbaik
+- Menggunakan kernel linux hardened
 - Indikator penilaian minimum adalah implementasi tingkat keamanan dan performa yang telah di pelajari
 
 
